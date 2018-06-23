@@ -1,0 +1,22 @@
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: rebeccapurple;
+}
+
+.square-red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.square-blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.centro{
+
+    text-align: center;
+}
